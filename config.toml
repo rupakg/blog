@@ -6,6 +6,7 @@ theme = "hyde-hyde"
 ## Site Settings
 [params]
   description = "personal opinions, experiences and writings..."
+  themeColor = "theme-base-0d"
   relatedPosts = true
   disqusShortname = "rupakg"
   googleAnalytics = "Your tracking code"
