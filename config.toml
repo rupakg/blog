@@ -1,0 +1,11 @@
+baseURL = "http://rupakganguly.com"
+languageCode = "en-us"
+title = "rupakganguly.com"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-08"
+  description = "personal opinions, experiences and writings..."
+  author = "Rupak Ganguly"
+  disqusShortname = "rupakg"
+  googleAnalytics = "Your tracking code"
