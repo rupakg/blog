@@ -1,6 +1,13 @@
 # rupakganguly.com
 Source for site and blog, based on Hugo.
 
+## Get Latest
+
+```
+git pull --recurse-submodules
+```
+This will get the latest code for this repo and all its submodules, i.e. our [public](https://github.com/rupakg/rupakg.github.io) folder.
+
 ## Create Posts
 
 ```
