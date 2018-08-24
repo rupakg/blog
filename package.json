@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Rupak Ganguly's personal blog",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupakg/blog.git"
+  },
+  "author": "Rupak Ganguly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rupakg/blog/issues"
+  },
+  "homepage": "https://github.com/rupakg/blog#readme",
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "js-yaml": "^3.12.0",
+    "medium-sdk": "0.0.4",
+    "remark": "^9.0.0",
+    "remark-frontmatter": "^1.2.1",
+    "steem": "^0.7.1",
+    "to-vfile": "^5.0.1",
+    "yargs": "^12.0.1"
+  },
+  "scripts": {
+    "dev": "hugo server -D && open http://localhost:1313/",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hugo -t hyde-hyde",
+    "deploy": "./scripts/deploy.sh",
+    "crosspost": "node scripts/publish/index.js"
+  }
+}
