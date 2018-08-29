@@ -2,19 +2,20 @@ baseURL = "http://rupakganguly.com/"
 Title = "Rupak Ganguly"
 languageCode = "en-us"
 theme = "hyde-hyde"
+disqusShortname = "rupakg"
+##googleAnalytics = "Your tracking code"
+highlightjs = true
+highlightjsstyle = "github"  
+relatedPosts = true
+showcomments = true
 
 ## Site Settings
 [params]
   description = "personal opinions, experiences and writings..."
   themeColor = "theme-base-0d"
-  relatedPosts = true
-  disqusShortname = "rupakg"
-  googleAnalytics = "Your tracking code"
   author = "Rupak Ganguly"
   authorimage = "/img/rg10-square.jpg"
   dateformat = "Jan 2, 2006"
-  highlightjs = true
-  highlightjsstyle = "github"  
 
 [params.social]
   twitter = "rupakg"
