@@ -18,13 +18,14 @@ $ hugo new posts/hello-word.md
 ## Test
 
 ```
-$ hugo server -D
+$ npm run dev
 ```
 
-## Deploy
+## Build & Deploy
 
 ```
-$ ./deploy.sh "Your optional commit message"
+$ npm run build
+$ npm run deploy
 ```
 This will generated the static pages to the `public` folder and deploy it to `rupakg.github.io` repo.
 
