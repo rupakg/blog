@@ -5,7 +5,7 @@ author = "Rupak Ganguly"
 
 theme = "hyde-hyde"
 
-disqusShortname = "rupakganguly.com"
+disqusShortname = "rupakganguly"
 ##googleAnalytics = "Your tracking code"
 enableRobotsTXT = true
 enableEmoji = true
