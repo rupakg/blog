@@ -20,7 +20,8 @@ enableEmoji = true
   dateformat = "Jan 2, 2006"
 
   highlightjs = true
-  highlightjsstyle = "github"  
+  highlightjsstyle = "github"
+  #pygmentsCodeFences = true
 
   relatedPosts = true
   showcomments = true
@@ -29,8 +30,8 @@ enableEmoji = true
   mainSections = ["post"]
 
 [params.meta]
-    description = "Rupak Ganguly's blog :: personal opinions, experiences and writings..."
-    keywords = "blog,serverless,docker,api,microservices,architecture,aws,lambda,azure,gcp,nodejs,node,alexa,python,java,golang,javascript,thoughts,macos,apple"
+  description = "Rupak Ganguly's blog :: personal opinions, experiences and writings..."
+  keywords = "blog,serverless,docker,api,microservices,architecture,aws,lambda,azure,gcp,nodejs,node,alexa,python,java,golang,javascript,thoughts,macos,apple"
 
 [params.social]
   twitter = "rupakg"
@@ -55,6 +56,9 @@ enableEmoji = true
     identifier = "about"
     weight = 900
     url = "/about/"
+
+[permalinks]
+  posts = "/posts/:year/:month/:slug/"
 
 # https://gohugo.io/content-management/related
 [related]

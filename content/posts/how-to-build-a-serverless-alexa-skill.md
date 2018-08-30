@@ -35,7 +35,7 @@ We have quite a bit of ground to cover so let's get started.
 
 To start off, let's create a serverless project using the `aws-nodejs` template:
 
-```
+```sh
 $ sls create -t aws-nodejs --name sls-meetup-alexa-skill -p sls-meetup-alexa-skill
 
 Serverless: Generating boilerplate...
@@ -79,7 +79,7 @@ Leave the `Allowed Origins` empty. Enter `http://localhost:9000` in `Allowed Ret
 
 Write down your `Client ID`, `Client Secret` and the `Vendor ID` for the new security profile. You can [find](https://developer.amazon.com/mycid.html) your `Vendor ID` as well. You can then set environment variables for each one of these secrets and then reference them in the `serverless.yml` file as shown below:
 
-```
+```yaml
 custom:
   alexa:
     vendorId: ${env:AMAZON_VENDOR_ID}
