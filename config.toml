@@ -50,11 +50,11 @@ enableEmoji = true
 ##    identifier = "portfolio"
 ##    weight = 300
 ##    url = "/portfolio/"
-##[[menu.main]]
-##    name = "About"
-##    identifier = "about"
-##    weight = 900
-##    url = "/about/"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 900
+    url = "/about/"
 
 # https://gohugo.io/content-management/related
 [related]
