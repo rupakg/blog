@@ -1,23 +1,82 @@
 baseURL = "http://rupakganguly.com/"
 Title = "Rupak Ganguly"
 languageCode = "en-us"
+author = "Rupak Ganguly"
+
 theme = "hyde-hyde"
+
 disqusShortname = "rupakganguly.com"
 ##googleAnalytics = "Your tracking code"
-highlightjs = true
-highlightjsstyle = "github"  
-relatedPosts = true
-showcomments = true
+enableRobotsTXT = true
+enableEmoji = true
 
 ## Site Settings
 [params]
+  author = "Rupak Ganguly"
   description = "personal opinions, experiences and writings..."
   themeColor = "theme-base-0d"
-  author = "Rupak Ganguly"
   authorimage = "/img/rg10-square.jpg"
+  
   dateformat = "Jan 2, 2006"
+
+  highlightjs = true
+  highlightjsstyle = "github"  
+
+  relatedPosts = true
+  showcomments = true
+  #postNavigation = false
+
+  mainSections = ["post"]
+
+[params.meta]
+    description = "Rupak Ganguly's blog :: personal opinions, experiences and writings..."
+    keywords = "blog,serverless,docker,api,microservices,architecture,aws,lambda,azure,gcp,nodejs,node,alexa,python,java,golang,javascript,thoughts,macos,apple"
 
 [params.social]
   twitter = "rupakg"
   github = "rupakg"
   medium = "rupakg"
+  linkedin = "rupakg"
+  email = "rupakg+blog@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+##[[menu.main]]
+##    name = "Portfolio"
+##    identifier = "portfolio"
+##    weight = 300
+##    url = "/portfolio/"
+##[[menu.main]]
+##    name = "About"
+##    identifier = "about"
+##    weight = 900
+##    url = "/about/"
+
+# https://gohugo.io/content-management/related
+[related]
+    # Only include matches with rank >= threshold. This is a normalized rank
+    # between 0 and 100.
+    threshold = 80
+    # To get stable "See also" sections we, by default, exclude newer related
+    # pages.
+    includeNewer = false
+    # Will lower case keywords in both queries and in the indexes.
+    toLower = false
+[[related.indices]]
+    name = "keywords"
+    weight = 150
+[[related.indices]]
+    name  = "author"
+    toLower = true
+    weight = 30
+[[related.indices]]
+    name  = "tags"
+    weight = 100
+[[related.indices]]
+    name  = "date"
+    weight = 10
+    pattern = "2006"
