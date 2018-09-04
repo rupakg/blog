@@ -46,6 +46,11 @@ enableEmoji = true
     weight = 100
     identifier = "posts"
     url = "/posts/"
+[[menu.main]]
+    name = "Webinars"
+    identifier = "webinar"
+    weight = 300
+    url = "/webinars/"    
 ##[[menu.main]]
 ##    name = "Portfolio"
 ##    identifier = "portfolio"

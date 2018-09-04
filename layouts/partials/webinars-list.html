@@ -1,0 +1,29 @@
+<h3>
+    <a href="{{ .page_url }}">{{ .title }}</a>
+</h3>
+<p><time>{{ dateFormat "Jan 02, 2006" .date_aired }}</time></p>
+<p>
+    {{ .description }}
+</p>
+<p>
+    <b>Panelist(s):</b>
+</p>
+<span>
+    <ul>
+    {{ range .panelists }}
+        <li>
+            <span>
+                {{ .name }} - {{ .job_title }} at {{ .company }}
+            </span>
+        </li>
+    {{ end }}
+    </ul>  
+</span>
+<p>
+    <b>Resources:</b>
+</p>
+<span>
+    {{ if .materials.source_code }}<a href="{{ .materials.source_code }}">Source Code</a> | {{end}}
+    {{ if .materials.video_url }}<a href="{{ .materials.video_url }}">Video</a> | {{end}}
+    {{ if .materials.slides_url }}<a href="{{ .materials.slides_url }}">Slides</a>{{end}}
+</span>

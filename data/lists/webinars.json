@@ -1,0 +1,32 @@
+[
+    {
+        "title": "How to Build a Regionally Distributed Serverless Architecture",
+        "page_url": "https://cloudacademy.com/webinars/how-build-regionally-distributed-serverless-architecture-61/",
+        "description": "Serverless is being billed as the future of cloud computing. Widely embraced by developers to offload most of the heavy-lifting infrastructure management, serverless is also gaining ground in the enterprise. In this webinar, Alex Casalboni, Senior Software Engineer at Cloud Academy and Rupak Ganguly, Enterprise Solutions Architect at Serverless Inc. explore the architectural advantages of globally distributed serverless applications through a live demo.",
+        "panelists": [
+            { "name": "Alex Casalboni", "job_title": "Senior Software Engineer", "company": "Cloud Academy Inc."}, 
+            { "name": "Rupak Ganguly", "job_title": "Enterprise Solutions Architect", "company": "Serverless Inc."}
+        ],
+        "date_aired": "2018-01-30T00:00:00Z",
+        "materials": {
+            "source_code": "https://github.com/alexdebrie/serverless-multi-region",
+            "video_url": "https://youtu.be/6uijFRFURPQ",
+            "slides_url": "https://speakerdeck.com/alexcasalboni/how-to-build-a-regionally-distributed-serverless-architecture"    
+        }
+    },
+    {
+        "title": "Unraveling the truth around Serverless Security",
+        "page_url": "https://serverless.com/webinars/serverless-security/",
+        "description": "Serverless architectures is the next wave of cloud computing. While everyone is excited about the potential of serverless computing, there are many considerations in developer tooling and evolving areas of security, observability, monitoring, debugging, logging and auditing. Especially in the area of security, there are a lot of loose ends that need to be addressed.",
+        "panelists": [
+            { "name": "Ory Segal", "job_title": "CTO & Co-founder", "company": "PureSec"}, 
+            { "name": "Rupak Ganguly", "job_title": "Enterprise Solutions Architect", "company": "Serverless Inc."}
+        ],
+        "date_aired": "2018-06-19T00:00:00Z",
+        "materials": {
+            "source_code": "N/A",
+            "video_url": "https://youtu.be/a5RfAMOrEW0",
+            "slides_url": "https://speakerdeck.com/alexcasalboni/how-to-build-a-regionally-distributed-serverless-architecture"
+        }
+    }
+]
