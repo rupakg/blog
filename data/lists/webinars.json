@@ -24,7 +24,7 @@
         ],
         "date_aired": "2018-06-19T00:00:00Z",
         "materials": {
-            "source_code": "N/A",
+            "source_code": "",
             "video_url": "https://youtu.be/a5RfAMOrEW0",
             "slides_url": "https://speakerdeck.com/alexcasalboni/how-to-build-a-regionally-distributed-serverless-architecture"
         }
