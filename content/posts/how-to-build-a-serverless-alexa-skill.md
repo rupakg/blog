@@ -1,7 +1,9 @@
 ---
 title: "How to build a Serverless Alexa Skill"
+description: "Building an Alexa skill using serverless for accessing meetups data."
 date: 2018-08-29T17:29:03-04:00
 lastmod: 2018-08-29T17:29:03-04:00
+keywords: [ "serverless", "alexa", "alexa skill", "voice apps" ]
 tags : [ "serverless", "alexa", "alexa skill", "voice apps" ]
 categories : [ "serverless", "alexa skill" ]
 layout: post
@@ -354,7 +356,7 @@ We will update the skill again by running:
 $ sls alexa update
 ```
 
-And, finally we will build the Alexa skill.
+And, , we will build the Alexa skill.
 
 ```
 $ sls alexa build
@@ -393,11 +395,11 @@ interactionModel:
 
 ## Preview the Skill
 
-Let's see what we have achieved so far. We have create a Alexa skill named MeetupEvents. Let's preview the skill we created on the Alexa Developer Console.
+Let's see what we have achieved so far. We have created an Alexa skill named MeetupEvents. Let's preview the skill we created on the Alexa Developer Console.
 
 ![image](https://user-images.githubusercontent.com/8188/44305288-fa291c00-a341-11e8-9dfa-cecaa83579e1.png)
 
-After, the skill is built, we can see the Intents populated:
+After the skill is built, we can see the Intents populated:
 
 ![image](https://user-images.githubusercontent.com/8188/44305357-46289080-a343-11e8-9ff8-506fe47b2265.png)
 
