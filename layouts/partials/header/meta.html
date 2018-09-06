@@ -1,0 +1,32 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+{{ "<!-- Enable responsiveness on mobile devices -->" | safeHTML }}
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+{{ .Hugo.Generator }}
+{{ if .IsHome }}
+    {{ $.Scratch.Set "theTitle" .Site.Title }}
+    {{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{.}}">{{ end }}
+{{else}}
+    {{ $.Scratch.Add "theTitle" .Title}}
+    {{ $.Scratch.Add "theTitle" " • "}}
+    {{ $.Scratch.Add "theTitle" .Site.Title}}
+    {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ if .Keywords }}
+        {{ $wordstr := delimit (.Keywords) ", " }}
+        <meta name="keywords" content="{{ $wordstr }}">
+    {{ end }}
+    
+{{ end }}
+<title>{{ $.Scratch.Get "theTitle" }}</title>
+{{ if not .IsHome }}
+    {{ with .Params.canonical.link }}<link rel="canonical" href="{{ . }}">{{ end }}
+{{ end}}
+{{with .Site.Params.AuthorUrl}}<link rel="author" href="{{ . }}">{{ end }}
+{{ with .Site.Params.Author }}
+<meta property="author" content="{{ . }}">
+<meta property="article:author" content="{{ . }}">
+{{ end }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ template "_internal/opengraph.html" . }}

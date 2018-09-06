@@ -13,6 +13,7 @@ enableEmoji = true
 ## Site Settings
 [params]
   author = "Rupak Ganguly"
+  authorurl = "https://rupakganguly.com/about/"
   description = "personal opinions, experiences and writings..."
   themeColor = "theme-base-0d"
   authorimage = "/img/rg10-square.jpg"

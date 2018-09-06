@@ -1,0 +1,4 @@
+{{ if .Params.canonical.link }}
+<hr>
+<p><i>Originally published at <a href="{{ .Params.canonical.link }}" rel="nofollow noopener" target="_blank">{{ .Params.canonical.text }}</a> on {{ .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") }}</i></p>
+{{ end }}
