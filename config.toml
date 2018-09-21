@@ -7,7 +7,7 @@ theme = "hyde-hyde"
 
 disqusShortname = "rupakganguly"
 googleAnalytics = "UA-125025619-1"
-enableRobotsTXT = true
+#enableRobotsTXT = true
 enableEmoji = true
 
 ## Site Settings
