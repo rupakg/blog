@@ -53,6 +53,8 @@ Serverless: Generating boilerplate in "/Users/wixmac/Projects/webapps/iot-projec
 Serverless: Successfully generated boilerplate for template: "aws-nodejs"
 ```
 
+**Update 11/29/18**: One of the readers 'mitravinda MK' reported that using the Serverless Framework v.1.33.0 did not work for him. It worked when he downgraded to v1.32.0. See comment below for details. 
+
 ## Add the Alexa skills plugin
 
 Next, we will use the [serverless-alexa-skills](https://github.com/marcy-terui/serverless-alexa-skills) plugin by Masashi Terui. It enables us to manage Alexa skills via the Serverless Framework. That is big deal. Without the plugin, you would have to set up the Alexa skill manually using the Amazon Alexa Skill Developer console.
