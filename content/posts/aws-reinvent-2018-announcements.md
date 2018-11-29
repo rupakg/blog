@@ -3,14 +3,37 @@ title: "AWS reInvent 2018 Announcements"
 description: ""
 date: 2018-11-29T11:31:26-05:00
 lastmod: 2018-11-29T11:31:26-05:00
-keywords : [ "announcements", "AWS", "reinvent"]
-tags : [ "announcements", "AWS", "reinvent"]
-categories : [ "AWS", "reinvent" ]
+keywords : [ "announcements", "AWS", "reinvent", "serverless"]
+tags : [ "announcements", "AWS", "reinvent", "serverless"]
+categories : [ "AWS", "reinvent", "announcements", "serverless"]
 layout: post
 type:  "post"
 ---
 
-As usual, AWS announced a slew of new services and updates to it's existing services at reInvent 2018. Here are the most significant ones that I am maintaining a list of. I will be updating the list as more services get announced.
+As usual, AWS announced a slew of new services and updates to it's existing services at reInvent 2018. Here are the most significant ones that I am maintaining a list of. I will be updating the list as more services get announced. Werner Vogels is on stage right now announcing new Serverless services and updates.
+<!--more-->
+
+## Serverless Updates
+
+**New Language support**: Ruby (yes!!!), Cobol, C++, Rust
+
+**3rd-party IDE Integrations**: PyCharm, IntelliJ, VSCode - full serverless integration, integrated debugging and more...
+
+**Custom Runtimes**: Bring you own execution environment.
+
+**Lambda Layers**: reusabiliy of code across serverless functions. no duplicated code anymore. versioning code out of box. Includes security.
+
+**Nested applications support** for apps in Serverless Application Repository. Package common functionality into modules that can be referenced from other SAM apps.
+
+**Step-Functions can now orchestrate with 8 new services**: AWS Batch, Fargate, Amazon ECS, Amazon SNS, Amazon SQS, AWS Glue, and Amazon SageMaker.
+
+**Websockets support for API Gateway** - build real-time two-way communication applications
+
+**ALB Support for AWS Lambda**
+
+**Managed Stream for Kafka**: fully managed and higly available Apache Kafka service
+
+**AWS Well-Architected Framework**
 
 ## Storage Services
 
@@ -91,3 +114,5 @@ Now you can build *hybrid solutions* using VMWare Cloud on AWS and AWS Outposts.
 - [Amazon Personalize – Real-Time Personalization and Recommendation for Everyone](https://aws.amazon.com/blogs/aws/amazon-personalize-real-time-personalization-and-recommendation-for-everyone/)
 - [Amazon Forecast – Time Series Forecasting Made Easy](https://aws.amazon.com/blogs/aws/amazon-forecast-time-series-forecasting-made-easy/)
 - [Amazon DynamoDB On-Demand – No Capacity Planning and Pay-Per-Request Pricing](https://aws.amazon.com/blogs/aws/amazon-dynamodb-on-demand-no-capacity-planning-and-pay-per-request-pricing/)
+- [New for AWS Lambda – Use Any Programming Language and Share Common Components](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/)
+- [New – Compute, Database, Messaging, Analytics, and Machine Learning Integration for AWS Step Functions](https://aws.amazon.com/blogs/aws/new-compute-database-messaging-analytics-and-machine-learning-integration-for-aws-step-functions/)
