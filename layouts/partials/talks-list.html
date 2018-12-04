@@ -1,0 +1,19 @@
+<h3>
+    <a href="{{ .page_url }}" target="_blank">{{ .title }}</a>
+</h3>
+{{ with .subtitle }}<span><em>{{ . }}</em></span>{{end}}
+<p>
+    <time>{{ dateFormat "Jan 02, 2006" .date_aired }}</time> | {{ .location }}
+</p>
+<div>
+    {{ if .thumbnail_url}}<a href="{{ .page_url }}" target="_blank"><img src="{{ .thumbnail_url}}" /></a>{{end}}
+    <!-- {{ if .thumbnail_url}}<img width="20%" align="right" src="{{ .thumbnail_url}}" />{{end}} -->
+    {{ with .description }}
+        <span>{{ . }}</span>
+    {{end}}
+</div>
+<span>
+    {{ if .materials.video_url }} | <a href="{{ .materials.video_url }}">Video</a>{{end}}
+    {{ if .materials.source_code }} | <a href="{{ .materials.source_code }}">Source Code</a> {{end}}
+</span>
+<br/>

@@ -1,0 +1,6 @@
+<span class="section__title">{{ .Title | default "Talks & Presentations" }}</span>
+<div class="portfolio__content">
+{{ range $.Site.Data.lists.talks }}
+   {{ partial "talks-list.html" . }}
+{{ end }}
+</div>

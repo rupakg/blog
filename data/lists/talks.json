@@ -1,0 +1,67 @@
+[
+  {
+      "title": "Intro to Docker",
+      "subtitle": "a whirlwind peek into containerization",
+      "page_url": "https://speakerdeck.com/rupakg/intro-to-docker",
+      "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/1d8ffa42bf2847b6987f7b9b64131a01/preview_slide_0.jpg?470165",
+      "description": "",
+      "date_aired": "2018-10-16T00:00:00Z",
+      "location": "IT Workshop, Atlanta",
+      "materials": {
+        "video_url": "",
+        "source_code": ""
+      }
+  },
+  {
+    "title": "An Introduction to Serverless Components",
+    "subtitle": "building serverless appplications with reusable serverless components",
+    "page_url": "https://speakerdeck.com/rupakg/building-serverless-applications-with-reusable-serverless-components",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2bedebcfff1d441780356aed4bb52b9b/preview_slide_0.jpg?454630",
+    "description": "",
+    "date_aired": "2018-07-17T00:00:00Z",
+    "location": "Serverless Meetup Lviv, Ukraine",
+    "materials": {
+      "video_url": "",
+      "source_code": ""
+    }
+  },
+  {
+    "title": "Get Going with Serverless",
+    "subtitle": "a walkthrough building serverless apps using the Serverless Framework",
+    "page_url": "https://speakerdeck.com/rupakg/get-going-with-serverless",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/fb27aca8e8774616a15494dd8af848a2/preview_slide_0.jpg?412964",
+    "description": "",
+    "date_aired": "2017-10-24T00:00:00Z",
+    "location": "Serverless Usergroup, Atlanta",
+    "materials": {
+      "video_url": "",
+      "source_code": ""
+    }
+  },
+  {
+    "title": "Remote Deployments with Panamax",
+    "subtitle": "develop locally, deploy to remote clustered infrastructures",
+    "page_url": "https://speakerdeck.com/rupakg/2014-atl-ruby-meetup-remote-deployments-with-panamax",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/e7253cc04d8901321b6a1681bfef9665/preview_slide_0.jpg?134638",
+    "description": "",
+    "date_aired": "2014-11-13T00:00:00Z",
+    "location": "Ruby Meetup, Atlanta",
+    "materials": {
+      "video_url": "",
+      "source_code": ""
+    }
+  },
+  {
+    "title": "Panamax: Docker Management for Humans",
+    "subtitle": "showcasing Panamax - not just another Docker user interface",
+    "page_url": "https://speakerdeck.com/rupakg/2014-atl-docker-meetup-showcasing-panamax",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/76b267c01c55013244835af50c4f292d/preview_slide_0.jpg?118257",
+    "description": "",
+    "date_aired": "2014-09-10T00:00:00Z",
+    "location": "Docker Meetup, Atlanta",
+    "materials": {
+      "video_url": "",
+      "source_code": ""
+    }
+  }    
+]  
