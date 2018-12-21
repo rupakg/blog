@@ -2,7 +2,7 @@
 title: "AWS reInvent 2018 Announcements"
 description: ""
 date: 2018-11-29T11:31:26-05:00
-lastmod: 2018-11-29T11:31:26-05:00
+lastmod: 2018-12-21T12:25:26-05:00
 keywords : [ "announcements", "AWS", "reinvent", "serverless"]
 tags : [ "announcements", "AWS", "reinvent", "serverless"]
 categories : [ "AWS", "reinvent", "announcements", "serverless"]
@@ -104,7 +104,6 @@ Now you can build *hybrid solutions* using VMWare Cloud on AWS and AWS Outposts.
 [AWS Transfer for SFTP](https://aws.amazon.com/sftp/): Fully managed SFTP service.
 
 
-
 ## In the News
 
 - [Automatic Cost Optimization for Amazon S3 via Intelligent Tiering](https://aws.amazon.com/blogs/aws/new-automatic-cost-optimization-for-amazon-s3-via-intelligent-tiering/)
@@ -116,3 +115,12 @@ Now you can build *hybrid solutions* using VMWare Cloud on AWS and AWS Outposts.
 - [Amazon DynamoDB On-Demand – No Capacity Planning and Pay-Per-Request Pricing](https://aws.amazon.com/blogs/aws/amazon-dynamodb-on-demand-no-capacity-planning-and-pay-per-request-pricing/)
 - [New for AWS Lambda – Use Any Programming Language and Share Common Components](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/)
 - [New – Compute, Database, Messaging, Analytics, and Machine Learning Integration for AWS Step Functions](https://aws.amazon.com/blogs/aws/new-compute-database-messaging-analytics-and-machine-learning-integration-for-aws-step-functions/)
+
+## Other related resources
+
+* [AWS re:Invent 2018 Sessions](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2018/2018.html?utm_source=newsletter&utm_medium=email&utm_campaign=Learn%20By%20Doing): All sessions at one place, with links to audio, video and slides. There is a podcast feed as well. There is one for [2017](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2017/2017.html) as well, if you did not know already.
+* [All videos for AWS re:Invent 2018](https://gist.github.com/LukasMusebrink/631e80e07c6b2ee73dd373a3192fd0ef): Running list of videos from the sessions. The current list contains 438 sessions. Courtesy LukasMusebrink.
+* [A curated list of AWS re:Invent 2018 sessions with video links](https://oren.github.io/blog/reinvent2018.html): Courtesy [@oreng](https://twitter.com/oreng)
+* [re:Invent 2018 serverless Announcements](https://serverless.com/blog/reinvent-2018-serverless-announcements/): Courtesy serverless.com
+* [Recap of re:Invent 2018 serverless announcements](https://www.serverlessops.io/coldstart/reinvent-recap-2018-web?utm_campaign=Email%20-%20Cold%20Start%20web&utm_content=80689963&utm_medium=social&utm_source=twitter&hss_channel=tw-740920470): Courtesy Tom McLaughlin at ServerlessOps
+* [How EC2 instances below Lambda work](https://www.youtube.com/watch?v=e8DVmwj3OEs): Great video on Nitro to understand how EC2 instances play a role for Lambda. Check out the [slides](https://www.slideshare.net/AmazonWebServices/a-serverless-journey-aws-lambda-under-the-hood-srv409r1-aws-reinvent-2018) too. Courtesy Anthony Liquori from AWS
