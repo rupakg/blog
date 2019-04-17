@@ -13,7 +13,7 @@ type:  "post"
 As usual, AWS announced a slew of new services and updates to it's existing services at reInvent 2018. Here are the most significant ones that I am maintaining a list of. I will be updating the list as more services get announced. Werner Vogels is on stage right now announcing new Serverless services and updates.
 <!--more-->
 
-Updated: 12/29/2018
+Updated: 12/21/2018
 
 ## Other recaps, Videos and Slides
 
