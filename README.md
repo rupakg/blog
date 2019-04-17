@@ -21,13 +21,17 @@ $ hugo new posts/hello-word.md
 $ npm run dev
 ```
 
+## Commit
+
+Commit the post(s).
+
 ## Build & Deploy
 
 ```
 $ npm run build
 $ npm run deploy
 ```
-This will generated the static pages to the `public` folder and deploy it to `rupakg.github.io` repo.
+This will generate the static pages. copy them to the `public` folder and deploy it to `rupakg.github.io` repo. It will then add the changes in the `public` folder into a commit, and then push to the master branch.
 
 ## Resources
 
