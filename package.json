@@ -19,7 +19,7 @@
     "medium-sdk": "0.0.4",
     "remark": "^9.0.0",
     "remark-frontmatter": "^1.2.1",
-    "steem": "^0.7.1",
+    "steem": "^0.7.4",
     "to-vfile": "^5.0.1",
     "yargs": "^12.0.1"
   },
