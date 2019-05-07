@@ -1,5 +1,31 @@
 [
   {
+    "title": "DockerCon 2019: Opensource Summit Serverless",
+    "subtitle": "basic understanding of serverless computing and why you should be interested",
+    "page_url": "https://speakerdeck.com/rupakg/intro-to-serverless",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/26705ba484e941bf967915fd5a8b5d72/preview_slide_0.jpg?514397",
+    "description": "Serverless is complementary technology running side-by-side containerization. In this session, using OpenFaas and Nuclio, panelists will present use cases via a series of demos and Q&A followed by birds of feather round table discussion. This session will go beyond hello world and highlight on-prem usage of serverless and containerization technologies and the real use cases in the enterprise. Hosted by Rupak Ganguly - Solutions Architect, Docker with panelists: Yaron Haviv - CTO, Iguazio | Burton Rheutan - DevOps Lead, OpenFaaS Core Contributor | Pav Jimanov - CEO, SoftwareDefined",
+    "date_aired": "2019-05-02T00:00:00Z",
+    "location": "DockerCon 2019, San Fransisco",
+    "materials": {
+      "video_url": "https://www.docker.com/dockercon/2019-videos?watch=open-source-summit-serverless",
+      "source_code": ""
+    }
+  },
+  {
+    "title": "Intro to Serverless",
+    "subtitle": "basic understanding of serverless computing and why you should be interested",
+    "page_url": "https://speakerdeck.com/rupakg/intro-to-serverless",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/57c442737d0d46fda959980744e7371f/preview_slide_0.jpg?485412",
+    "description": "",
+    "date_aired": "2019-01-15T00:00:00Z",
+    "location": "IT Workshop, Atlanta",
+    "materials": {
+      "video_url": "",
+      "source_code": ""
+    }
+  },
+  {
       "title": "Intro to Docker",
       "subtitle": "a whirlwind peek into containerization",
       "page_url": "https://speakerdeck.com/rupakg/intro-to-docker",

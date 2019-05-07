@@ -4,6 +4,8 @@
 {{ with .subtitle }}<span><em>{{ . }}</em></span>{{end}}
 <p>
     <time>{{ dateFormat "Jan 02, 2006" .date_aired }}</time> | {{ .location }}
+    {{ if .materials.video_url }} | <a href="{{ .materials.video_url }}" target="_blank">Watch the Video</a>{{end}}
+    {{ if .materials.source_code }} | <a href="{{ .materials.source_code }}" target="_blank">Source Code</a> {{end}}
 </p>
 <div>
     {{ if .thumbnail_url}}<a href="{{ .page_url }}" target="_blank"><img src="{{ .thumbnail_url}}" /></a>{{end}}
@@ -12,8 +14,4 @@
         <span>{{ . }}</span>
     {{end}}
 </div>
-<span>
-    {{ if .materials.video_url }} | <a href="{{ .materials.video_url }}">Video</a>{{end}}
-    {{ if .materials.source_code }} | <a href="{{ .materials.source_code }}">Source Code</a> {{end}}
-</span>
-<br/>
+</br>
