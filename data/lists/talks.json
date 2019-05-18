@@ -1,7 +1,20 @@
 [
   {
+    "title": "Why & What of Serverless Computing",
+    "subtitle": "Unraveling serverless computing and why you should give it a closer look",
+    "page_url": "https://speakerdeck.com/rupakg/why-and-what-of-serverless-computing",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/9f5e4f6a54084468b8ef5c7ee68706a1/preview_slide_0.jpg?517156",
+    "description": "Unraveling serverless computing and why you should give it a closer look. In this session at AITP Atlanta Meetup, I talk about the serverless movement, the trend, the hype, and what it really means. I talk about the evolution of architecture, the tenets of serverless computing, its use cases & challenges, security implications. I also touched upon the total cost of ownership and adoption of serverless computing in the industry.",
+    "date_aired": "2019-05-16T00:00:00Z",
+    "location": "AITP Atlanta Meetup, Atlanta",
+    "materials": {
+      "video_url": "",
+      "source_code": ""
+    }
+  },
+  {
     "title": "DockerCon 2019: Opensource Summit Serverless",
-    "subtitle": "basic understanding of serverless computing and why you should be interested",
+    "subtitle": "Serverless is complementary technology running side-by-side containerization.",
     "page_url": "https://speakerdeck.com/rupakg/intro-to-serverless",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/26705ba484e941bf967915fd5a8b5d72/preview_slide_0.jpg?514397",
     "description": "Serverless is complementary technology running side-by-side containerization. In this session, using OpenFaas and Nuclio, panelists will present use cases via a series of demos and Q&A followed by birds of feather round table discussion. This session will go beyond hello world and highlight on-prem usage of serverless and containerization technologies and the real use cases in the enterprise. Hosted by Rupak Ganguly - Solutions Architect, Docker with panelists: Yaron Haviv - CTO, Iguazio | Burton Rheutan - DevOps Lead, OpenFaaS Core Contributor | Pav Jimanov - CEO, SoftwareDefined",
@@ -14,7 +27,7 @@
   },
   {
     "title": "Intro to Serverless",
-    "subtitle": "basic understanding of serverless computing and why you should be interested",
+    "subtitle": "Basic understanding of serverless computing and why you should be interested",
     "page_url": "https://speakerdeck.com/rupakg/intro-to-serverless",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/57c442737d0d46fda959980744e7371f/preview_slide_0.jpg?485412",
     "description": "",
@@ -27,7 +40,7 @@
   },
   {
       "title": "Intro to Docker",
-      "subtitle": "a whirlwind peek into containerization",
+      "subtitle": "A whirlwind peek into containerization",
       "page_url": "https://speakerdeck.com/rupakg/intro-to-docker",
       "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/1d8ffa42bf2847b6987f7b9b64131a01/preview_slide_0.jpg?470165",
       "description": "",
@@ -40,7 +53,7 @@
   },
   {
     "title": "An Introduction to Serverless Components",
-    "subtitle": "building serverless appplications with reusable serverless components",
+    "subtitle": "Building serverless appplications with reusable serverless components",
     "page_url": "https://speakerdeck.com/rupakg/building-serverless-applications-with-reusable-serverless-components",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2bedebcfff1d441780356aed4bb52b9b/preview_slide_0.jpg?454630",
     "description": "",
@@ -53,7 +66,7 @@
   },
   {
     "title": "Get Going with Serverless",
-    "subtitle": "a walkthrough building serverless apps using the Serverless Framework",
+    "subtitle": "A walkthrough building serverless apps using the Serverless Framework",
     "page_url": "https://speakerdeck.com/rupakg/get-going-with-serverless",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/fb27aca8e8774616a15494dd8af848a2/preview_slide_0.jpg?412964",
     "description": "",
@@ -66,7 +79,7 @@
   },
   {
     "title": "Remote Deployments with Panamax",
-    "subtitle": "develop locally, deploy to remote clustered infrastructures",
+    "subtitle": "Develop locally, deploy to remote clustered infrastructures",
     "page_url": "https://speakerdeck.com/rupakg/2014-atl-ruby-meetup-remote-deployments-with-panamax",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/e7253cc04d8901321b6a1681bfef9665/preview_slide_0.jpg?134638",
     "description": "",
@@ -79,7 +92,7 @@
   },
   {
     "title": "Panamax: Docker Management for Humans",
-    "subtitle": "showcasing Panamax - not just another Docker user interface",
+    "subtitle": "Showcasing Panamax - not just another Docker user interface",
     "page_url": "https://speakerdeck.com/rupakg/2014-atl-docker-meetup-showcasing-panamax",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/76b267c01c55013244835af50c4f292d/preview_slide_0.jpg?118257",
     "description": "",
