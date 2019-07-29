@@ -31,8 +31,10 @@ Commit the post(s).
 $ npm run build
 $ npm run deploy
 ```
-This will generate the static pages. copy them to the `public` folder and deploy it to `rupakg.github.io` repo. It will then add the changes in the `public` folder into a commit, and then push to the master branch.
+This will generate the static pages, copy them to the `public` folder and deploy it to `rupakg.github.io` repo. It will then add the changes in the `public` folder into a commit, and then push to the master branch.
 
 ## Resources
 
-[Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+* [Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+* [Custom domain for your GitHub Pages site](https://help.github.com/en/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site)
+* [Securing your GitHub Pages site with HTTPS](https://help.github.com/en/articles/securing-your-github-pages-site-with-https)
