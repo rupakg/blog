@@ -79,7 +79,7 @@ Another way to get access to content is podcasts, conference videos, and Youtube
 
 ## Take care of yourself
 
-Last but not the least, we need to take care of ourselves. Not only during this pandemic but always. Eat healthy and a balanced meal. Go for a walk every day and/or exercise. Reflect, meditate, pray. Other things that might relieve stress and alleviate boredom: be organized, follow a schedule, get disciplined, reject negativity and be positive, instill good habits, [make your bed](https://www.facebook.com/watch/?v=10156082095102241), [do a good turn daily](http://www.scouterlife.com/blog/2018/9/13/the-scout-slogan), be kind, and help others...
+Last but not the least, we need to take care of ourselves. Not only during this pandemic but always. Eat healthy and a balanced meal. Go for a walk every day and/or exercise. Reflect, meditate, pray. Other things that might relieve stress and alleviate boredom: be organized, follow a schedule, get disciplined, reject negativity and be positive, instill good habits, [make your bed](https://www.facebook.com/watch/?v=10156082095102241), do a good turn daily, be kind, and help others...
 
 Stay home. Stay safe. Be healthy. #[AloneTogether](https://www.youtube.com/watch?v=JjVUzY6lSRA).
 
