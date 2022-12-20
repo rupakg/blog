@@ -7,12 +7,9 @@
     </span>
     {{ end }} 
     {{ partial "page-single/post-meta.html" . }}
-    {{ partial "page-single/social-share-buttons.html" . }}
   </header>
   <div class="post">
     {{ .Content }}
-    {{ partial "page-single/post-canonical.html" . }}
-    {{ partial "page-single/social-share-buttons.html" . }}
   </div>
   {{ partial "page-single/post-navigation.html" . }}
   {{ partial "page-single/post-related.html" . }}
