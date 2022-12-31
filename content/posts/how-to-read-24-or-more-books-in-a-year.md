@@ -30,7 +30,35 @@ To keep us motivated and challenged, we need a way to track progress. So, having
 
 I participate in reading challenges every year. These are reading goals for yourself that challenges you to read more each year. It is a fun way to motivate you to read. It is not really how many books you read, but establishing a steady cadence to read. The more you read, the more you get hooked. 
 
-If you are interested, here is a list of [books I have read](https://www.goodreads.com/review/list/30107236-rupak-ganguly?ref=nav_mybooks&shelf=read).
+## My 2022 Book List
+
+If you are interested, here is a list of books I have read in 2022.
+
+- [The Everyday Hero Manifesto: Activate Your Positivity, Maximize Your Productivity, Serve The World](https://amzn.to/3Z4LERC) by Robin Sharma
+- [The Tipping Point: How Little Things Can Make a Big Difference](https://amzn.to/3hXOszy) by Malcolm Gladwell
+- [Will](https://amzn.to/3XeaTzt) by Will Smith, Mark Manson
+- [Essentialism: The Disciplined Pursuit of Less](https://amzn.to/3vvyRKE) by Greg McKeown
+- [Good to Great: Why Some Companies Make the Leap and Others Don't](https://amzn.to/3VwrNbf) by Jim Collins
+- [Effortless: Make It Easier to Do What Matters Most](https://amzn.to/3WFXU9Q) by Greg McKeown
+- [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth](https://amzn.to/3vqRhfw) by John Doerr
+- [How to Lead When You're Not in Charge: Leveraging Influence When You Lack Authority](https://amzn.to/3hXPED2) by Clay Scroggins
+- [The Infinite Game](https://amzn.to/3Ce7ubE) by Simon Sinek
+- [Choose to Win: Transform Your Life, One Simple Choice at a Time](https://amzn.to/3i0CchJ) by Tom Ziglar
+- [The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness](https://amzn.to/3GvlCjn) by Ichiro Kishimi
+- [Born to Win: Find Your Success](https://amzn.to/3WAp3dX) by Zig Ziglar
+- [Leading Without Authority: How the New Power of Co-Elevation Can Break Down Silos, Transform Teams, and Reinvent Collaboration](https://amzn.to/3jARDNL) by Keith Ferrazzi,  Noel Weyrich
+- [The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too)](https://amzn.to/3Gax0Qp) by Gretchen Rubin
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://amzn.to/3vvByfe) by Charles Duhigg
+- [Think Again: The Power of Knowing What You Don't Know](https://amzn.to/3IhietO) by Adam Grant
+- [Predictably Irrational: The Hidden Forces That Shape Our Decisions](https://amzn.to/3vuWsed) by Dr. Dan Ariely
+- [Super Thinking: The Big Book of Mental Models](https://amzn.to/3i2VzXd) by Gabriel Weinberg
+- [The Education of an Accidental CEO: Lessons Learned from the Trailer Park to the Corner Office](https://amzn.to/3WZyTWT) by David Novak
+- [Life Force](https://amzn.to/3WTM1wD) by Tony Robbins
+- [Powershift: Transform Any Situation, Close Any Deal, and Achieve Any Outcome](https://amzn.to/3G4JPeN) by Daymond John, Daniel Paisner
+- [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://amzn.to/3CecCg0) by Jocko Willink, Leif Babin
+- [Flex: The Art and Science of Leadership in a Changing World](https://amzn.to/3Qa08fc) by Jeffrey Hull
+- [How Innovation Works: And Why It Flourishes in Freedom](https://amzn.to/3If9V1h) by Matt Ridley
+- [Taking People with You: The Only Way to Make Big Things Happen](https://amzn.to/3Q2X2ti) by David Novak
 
 ## Apps that promote the reading habit
 
