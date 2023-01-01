@@ -124,7 +124,7 @@ An alternative to Headway is Blinklist which is a similar app but the subscripti
 
 I have bought a lot of Kindle-format books to read on my Kindle, but I have not tried the Kindle Unlimited service yet. I am an Amazon Prime member, so I do use the Prime Reading service. It is a good service to have when you have a high cadence to read a lot of books. 
 
-If you are interested, check out the [Best Sellers of 2022 Kindle Books](https://amzn.to/3Gq2tix). [Sign up for Kindle Unlimted](https://amzn.to/3IdVavN) or [Prime Reading](https://amzn.to/3Cg3Ei9) and get going on your reading journey!
+If you are interested, check out the [Best Sellers of 2022 Kindle Books](https://amzn.to/3Gq2tix). [Sign up for Kindle Unlimited](https://amzn.to/3IdVavN) or [Prime Reading](https://amzn.to/3Cg3Ei9) and get going on your reading journey!
 
 ### Book Club
 **What is a book club and how to use it?**
