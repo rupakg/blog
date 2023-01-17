@@ -20,7 +20,7 @@ While researching for full, end-to-end, lifecycle API management tools, I discov
 
 ## API Platforms
 
-The market is full of API platforms. Without going into details, here is a feature comparison for some of the popular platforms. I have created a matrix of feature sets that are crucial in deciding an API platform that will meet the needs.
+The market is full of API platforms. Without going into details, here is a feature comparison for some of the popular platforms. I have created a matrix of feature sets that are crucial in deciding on an API platform that will meet the needs.
 
 | Platform       | Design     | Code Gen.   | Documentation | Testing/Portal | Management|
 |------------|------------|------------|----------|------|--------------|
@@ -33,9 +33,11 @@ The market is full of API platforms. Without going into details, here is a featu
 | [MuleSoft](https://www.mulesoft.com/)   | [Anypoint Design Center](https://www.mulesoft.com/platform/anypoint-design-center) | [Anypoint Studio](https://www.mulesoft.com/platform/studio), [Anypoint Connector DevKit](https://www.mulesoft.com/platform/devkit) | [Anypoint Design Center](https://www.mulesoft.com/platform/anypoint-design-center) | [MUnit](https://www.mulesoft.com/platform/munit-integration-testing) | [Anypoint Management Center](https://www.mulesoft.com/platform/anypoint-management-center), [CloudHub](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration)| [RAML](https://raml.org/)    | [API Workbench](https://raml.org/projects#q:api%20workbench), [API Designer](https://raml.org/projects#q:api%20designer)  | [Generators](https://raml.org/developers/build-your-api) | [Documentation Tools](https://raml.org/developers/document-your-api) | [Testing Tools](https://raml.org/developers/test-your-api) |
 | [Swagger](http://swagger.io)    | [Swagger Editor](https://swagger.io/tools/swagger-editor/), [SwaggerHub](https://swagger.io/tools/swaggerhub/) | [Swagger Codegen](https://swagger.io/tools/swagger-codegen/) | [Swagger UI](https://swagger.io/tools/swagger-ui/), [SwaggerHub](https://swagger.io/tools/swaggerhub/), [Swagger Inspector](https://swagger.io/tools/swagger-inspector/) | [Swagger Inspector](https://swagger.io/tools/swagger-inspector/) | None
 
+> See my post about [What Is Swagger and Why It Is Used](/glossary/what-is-swagger-and-why-it-is-used/)
+
 ## API Specification Formats
 
-I thought I will mention the popular API Specification formats as well. The OpenAPI Specifications (previously Swagger API Specs) and RAML being the most popular.
+I thought I will mention the popular API Specification formats as well. The OpenAPI Specifications (previously Swagger API Specs) and RAML are the most popular.
 
 * [OpenAPI or Swagger](https://swagger.io/specification/)
 * [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/)
