@@ -30,7 +30,7 @@ Updated: 12/21/2018
 
 **3rd-party IDE Integrations**: PyCharm, IntelliJ, VSCode - full serverless integration, integrated debugging and more...
 
-**Custom Runtimes**: Bring you own execution environment.
+**Custom Runtimes**: Bring your own execution environment.
 
 **Lambda Layers**: reusabiliy of code across serverless functions. no duplicated code anymore. versioning code out of box. Includes security.
 
@@ -42,21 +42,21 @@ Updated: 12/21/2018
 
 **ALB Support for AWS Lambda**
 
-**Managed Stream for Kafka**: fully managed and higly available Apache Kafka service
+**Managed Stream for Kafka**: fully managed and highly available Apache Kafka service
 
 **AWS Well-Architected Framework**
 
 ## Storage Services
 
-[AWS S3 Glacier Deep Archive](https://aws.amazon.com/about-aws/whats-new/2018/11/s3-glacier-deep-archive/): a new Amazon S3 storage class that provides secure, durable object storage for long-term data retention and offers the lowest price.
+[AWS S3 Glacier Deep Archive](https://aws.amazon.com/about-aws/whats-new/2018/11/s3-glacier-deep-archive/): a new Amazon S3 storage class provides secure, durable object storage for long-term data retention and offers the lowest price.
 
 [AWS S3 Intelligent-Tiering](https://aws.amazon.com/about-aws/whats-new/2018/11/s3-intelligent-tiering/): a new Amazon S3 storage class designed that optimizes storage costs automatically when data access patterns change, without performance impact or operational overhead.
 
 ## Security Services
 
-[AWS Control Tower](https://aws.amazon.com/controltower/): prescriptive guidance for setting up accounts, IAM policies, security, compliance, multi-account/orgs. etc. It is a set of blueprints and set up guardrails.
+[AWS Control Tower](https://aws.amazon.com/controltower/): prescriptive guidance for setting up accounts, IAM policies, security, compliance, multi-account/orgs. etc. It is a set of blueprints and set-up guardrails.
 
-[AWS Security Hub](https://aws.amazon.com/security-hub/): manage all security and complaince across AWS environment.
+[AWS Security Hub](https://aws.amazon.com/security-hub/): manage all security and compliance across AWS environment.
 
 [Amazon CloudWatch Logs Insights](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-logs-insights-fast-interactive-log-analytics/): fully integrated analytics service to analyze and visualize CloudWatch logs.
 
@@ -94,17 +94,17 @@ Updated: 12/21/2018
 
 [Amazon Textract](https://aws.amazon.com/textract/): OCR++ service to easily extract text data from documents and forms. It can recognize different data formats like SSN, DOB, addresses etc.
 
-[Amazon Personalize](https://aws.amazon.com/personalize/): Fully managed real-time personalization and recommendations engine/service. They are private models. You feed in activity stream, inventory data, demographics data etc. to Amazon Personalize and you get a personallized recommendations exposed via an API.
+[Amazon Personalize](https://aws.amazon.com/personalize/): Fully managed real-time personalization and recommendations engine/service. They are private models. You feed in activity stream, inventory data, demographics data etc. to Amazon Personalize and you get personalized recommendations exposed via an API.
 
-[Amazon Forecast](https://aws.amazon.com/forecast/): Accurate time-series forecasting service. Feed historical data and related casual data and forecasts is exposed over an API.
+[Amazon Forecast](https://aws.amazon.com/forecast/): Accurate time-series forecasting service. Feed historical data and related casual data and forecasts are exposed over an API.
 
 ## Infrastructure Services
 
 [VMWare Cloud on AWS](https://cloud.vmware.com/vmc-aws): Extend and migrate VMWare environments to AWS. 
 
-[AWS Outposts](https://aws.amazon.com/outposts/): Run AWS infrastructure on-premise in your datacenter - **AWS VMWare Cloud** or **AWS Native**. That will enable to run AWS software in-premise. It will seamlessly integrate with services on AWS cloud. Installed and optionally maintained by AWS.
+[AWS Outposts](https://aws.amazon.com/outposts/): Run AWS infrastructure on-premise in your data center - **AWS** VMWare Cloud** or **AWS Native**. That will enable running AWS software on-premise. It will seamlessly integrate with services on AWS cloud. Installed and optionally maintained by AWS.
 
-[Firecracker](https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/): an open-source virtualization technology built for managing containers and functions based services.
+[Firecracker](https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/): an open-source virtualization technology built for managing containers and functions-based services.
 
 Now you can build *hybrid solutions* using VMWare Cloud on AWS and AWS Outposts.
 

@@ -10,7 +10,7 @@ layout: post
 type:  "post"
 ---
 
-When I was a kid, I was intrigued by the Starship Enterprise's onboard computer featured in the science fiction series Star Trek. Although cheeky at times in it's portrayal of technologies beyond our imagination, the voice-controlled computer always made me wonder. And, here we are in the same lifetime, realiziing similar technolgies - inside our homes, on a small device... Amazing, I think! 🖖
+When I was a kid, I was intrigued by the Starship Enterprise's onboard computer featured in the science fiction series Star Trek. Although cheeky at times in its portrayal of technologies beyond our imagination, the voice-controlled computer always made me wonder. And, here we are in the same lifetime, realizing similar technologies - inside our homes, on a small device... Amazing, I think! 🖖
 <!--more-->
 
 Let's build ourselves a custom skill for Alexa. Let me show you how.
