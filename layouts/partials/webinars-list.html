@@ -1,5 +1,5 @@
 <h3>
-    <a href="{{ .page_url }}">{{ .title }}</a>
+    <a href="{{ .page_url }}" target="_blank">{{ .title }}</a>
 </h3>
 <p><time>{{ dateFormat "Jan 02, 2006" .date_aired }}</time></p>
 <p>
@@ -23,7 +23,7 @@
     <b>Resources:</b>
 </p>
 <span>
-    {{ if .materials.source_code }}<a href="{{ .materials.source_code }}">Source Code</a> | {{end}}
-    {{ if .materials.video_url }}<a href="{{ .materials.video_url }}">Video</a> | {{end}}
-    {{ if .materials.slides_url }}<a href="{{ .materials.slides_url }}">Slides</a>{{end}}
+    {{ if .materials.source_code }}<a href="{{ .materials.source_code }}" target="_blank">Source Code</a> | {{end}}
+    {{ if .materials.video_url }}<a href="{{ .materials.video_url }}" target="_blank">Video</a> | {{end}}
+    {{ if .materials.slides_url }}<a href="{{ .materials.slides_url }}" target="_blank">Slides</a>{{end}}
 </span>
