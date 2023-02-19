@@ -1,9 +1,9 @@
 ---
 title: "What Is Strapi Headless CMS?"
-description: ""
+description: "Learn what is a Strapi headless CMS."
 date: 2023-01-18T16:30:55-05:00
 lastmod: 2023-01-18T16:30:55-05:00
-keywords: ["CMS", "Strapi", "headless", "content management system"]
+keywords: ["CMS", "Strapi", "headless cms", "content management system"]
 tags: ["CMS", "Strapi"]
 categories: ["CMS"]
 layout: glossary
