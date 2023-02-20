@@ -36,7 +36,7 @@ To follow the article and build the app step-by-step, you will need the followin
 	- Only Maintenance and LTS versions are supported (`v14`, `v16`, and `v18`).
 	- Node v18.x is recommended for Strapi `v4.3.9` and above
 - Node.js package manager
-	-  **npm** (`v6` only) or **yarn** (we will use npm in the lab)
+	- **npm** (`v6` only) or **yarn** (we will use npm in the lab)
 - **Python** (needed for using **SQLite** database)
 - The `strapi-books-api` app project [source code repository](https://github.com/rupakg/strapi-books-api)
 
@@ -46,21 +46,23 @@ To follow the article and build the app step-by-step, you will need the followin
 
 Let's create the Strapi app named `strapi-books-api` that will manage the content for a list of books with their authors, and then expose the data via APIs.
 
-1. To create the Strapi project, let's run the following command in a terminal window:
+I. To create the Strapi project, let's run the following command in a terminal window:
 
 ```bash
 npx create-strapi-app@4.5.6 strapi-books-api
 ```
 
 where,
+
 - `create-strapi-app` is the Strapi package
 - `@4.5.6` indicates the version of the Strapi package being used
 - `strapi-books-api` is the name of the Strapi project
 
 The above command will ask to install the `create-strapi-app@4.5.6` package. It will also create a folder under the current folder by the project name `strapi-books-api`.
 
-2. Choose the installation type as: `Quickstart (recommended)`. This will allow Strapi to use SQLite as the default database. You can choose to use the `Custom (manual settings)` option if you want to use any of the other supported databases.
-3. Here is what the output will look like:
+II. Choose the installation type as: `Quickstart (recommended)`. This will allow Strapi to use SQLite as the default database. You can choose to use the `Custom (manual settings)` option if you want to use any of the other supported databases.
+
+III. Here is what the output will look like:
 
 ```bash
 Need to install the following packages:
@@ -76,7 +78,7 @@ Dependencies installed successfully.
 Your application was created at /<your project path>/strapi-books-api.
 ```
 
-4. At the end of the Strapi app creation process, a set of documentation pointers are generated and displayed on the terminal:
+IV. At the end of the Strapi app creation process, a set of documentation pointers are generated and displayed on the terminal:
 
 ```bash
 Available commands in your project:
@@ -130,7 +132,7 @@ Create your first administrator 💻 by going to the administration panel at:
 
 **Note**: For the curious reader, please note the fact that a `jwt` secret was automatically created. `The Users & Permissions plugin automatically generated a jwt secret and stored it in .env under the name JWT_SECRET.`
 
-5. The above creation process automatically triggers running the app, and opens a browser window to `http://localhost:1337/admin/auth/register-admin` for creating a new admin user. Fill in the info. on the screen to create an admin user. 
+V. The above creation process automatically triggers running the app, and opens a browser window to `http://localhost:1337/admin/auth/register-admin` for creating a new admin user. Fill in the info. on the screen to create an admin user. 
 **Note:** This is a local user and is **required** to manage content in the Strapi Dashboard UI.
 
 ![The Welcome to Strapi screen for creating a new admin user](https://user-images.githubusercontent.com/8188/214574738-362f66e0-209c-418a-810b-cc2573e8ab87.png)
@@ -138,7 +140,7 @@ Create your first administrator 💻 by going to the administration panel at:
 
 Once you have completed the form and submitted it, the admin user will be created and you will be redirected to the `http://localhost:1337/admin/` page, which is the Strapi Dashboard UI. We will dig deep into it in the next section. 
 
-6. This marks the completion of the Strapi app creation process. If you want you can `CTRL+C` on your terminal window to exit the running Strapi app. We will start the app again in the next section.
+VI. This marks the completion of the Strapi app creation process. If you want you can `CTRL+C` on your terminal window to exit the running Strapi app. We will start the app again in the next section.
 
 **Note**: If you have different `node` versions installed and use `nvm` to manage them, I suggest you create a `.nvmrc` file at the root of the project. The `.nvmrc` file just contains the version of node e.g. `v18.13.0` in my case. Then, every time you switch to the project folder, run `nvm use <version>` to automatically switch to the `node` version in your `.nvmrc` file.
 
@@ -162,34 +164,41 @@ Let's jump in and create the above content types using the Strapi Dashboard Admi
 
 We will create a `Book` collection type. Then we will define the attributes to display when adding a new book entry:
 
-1. Go to **Content-type Builder** in the main navigation.
-2. Click on **Create new collection type**.
-3. Enter `Book` for the _Display name_
-4. Click **Continue**.
+i. Go to **Content-type Builder** in the main navigation.
+
+ii. Click on **Create new collection type**.
+
+iii. Enter `Book` for the _Display name_.
+
+iv. Click **Continue**.
 
 ![Create a collection type screen](https://user-images.githubusercontent.com/8188/215478766-fad54326-a684-4507-8814-cc9877a3c73b.png)
 *Create a collection type screen*
 
-4. Click the Text field.
+v. Click the Text field.
 
 ![Select a field for the collection type screen](https://user-images.githubusercontent.com/8188/215478970-c1e671b6-741f-4d6f-8f22-79aee97de678.png)
 *Select a field for the collection type screen*
 
-5. Enter `name` in the _Name_ field.
+vi. Enter `name` in the _Name_ field.
 
 ![The Basic settings tab of the Add a new Text field screen](https://user-images.githubusercontent.com/8188/215479705-a5f20d1b-0bc0-4910-83ea-640f3e685e5c.png)
 *The Basic settings tab of the Add a new Text field screen*
 
-6. Switch to the _Advanced Settings_ tab, and check the **Required field** and the **Unique field** settings.
+vii. Switch to the _Advanced Settings_ tab, and check the **Required field** and the **Unique field** settings.
 
 ![The Advanced Settings tab of the Add a new Text field screen](https://user-images.githubusercontent.com/8188/215479869-e4ad435e-7a4e-4a04-9034-911d0fd11d9b.png)
 *The Advanced Settings tab of the Add a new Text field screen*
 
-7. Click on **Add another field**.
-8. Choose the Rich text field.
-9. Type `description` under the _Name_ field.
-10. Repeat, to add the other fields as necessary and click **Finish**.
-11. Click **Save** and wait for Strapi to restart.
+viii. Click on **Add another field**.
+
+ix. Choose the Rich text field.
+
+x. Type `description` under the _Name_ field.
+
+xi. Repeat, to add the other fields as necessary and click **Finish**.
+
+xii. Click **Save** and wait for Strapi to restart.
 
 After adding all the fields for `Book`, the type definition looks like this:
 
@@ -202,24 +211,36 @@ We will create an `Author` collection type. Every book has authors, so we will u
 
 Let's create an `Author` collection type:
 
-1. Go to **Content-type Builder** in the main navigation.
-2. Click on **Create new collection type**.
-3. Type `Author` for the _Display name_, and click **Continue**.
-4. Click the Text field.
-5. Type `name` in the _Name_ field.
-6. Switch to the _Advanced Settings_ tab, and check the **Required field** and the **Unique field** settings.
-7. Click on **Add another field**.
-8. Choose the Rich text field.
-9. Type `bio` under the _Name_ field.
-9. Click on **Add another field**.
-10. Choose the Relation field.
-11. On the right side, click the _Author_ relational fields box and select "Book".
-12. In the center, select the icon that represents "many-to-many". The text should read `Authors has and belongs to many Books`.
+i. Go to **Content-type Builder** in the main navigation.
+
+ii. Click on **Create new collection type**.
+
+iii. Type `Author` for the _Display name_, and click **Continue**.
+
+iv. Click the Text field.
+
+v. Type `name` in the _Name_ field.
+
+vi. Switch to the _Advanced Settings_ tab, and check the **Required field** and the **Unique field** settings.
+
+vii. Click on **Add another field**.
+
+viii. Choose the Rich text field.
+
+ix. Type `bio` under the _Name_ field.
+
+x. Click on **Add another field**.
+
+xi. Choose the Relation field.
+
+xii. On the right side, click the _Author_ relational fields box and select "Book".
+
+xiii. In the center, select the icon that represents "many-to-many". The text should read `Authors has and belongs to many Books`.
 
 ![The Relation field for creating a "many-to-many" relationship between books and authors](https://user-images.githubusercontent.com/8188/215486545-4194021c-3227-49f4-be5c-048328366639.png)
 *The `Relation` field for creating a "many-to-many" relationship between books and authors*
 
-13. Click **Save** and wait for Strapi to restart.
+xiv. Click **Save** and wait for Strapi to restart.
 
 The Author type definition looks like this:
 
