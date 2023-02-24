@@ -33,8 +33,9 @@ Strapi provides an intuitive user interface with built-in sorting and filtering,
 
 Strapi also supports integrations with major service providers like Algolia, SendGrid, Mailgun, Redis, Sentry, etc. via plugins. 
 
-Go check out [Strapi](https://strapi.io/) and it's free!
+Go check out [Strapi](https://strapi.io/) and it's opensource!
 
+> Check out my Part 1 article on [How to create a Strapi CMS app to manage content](/posts/how-to-create-a-strapi-cms-app-to-manage-content/).
 
 
 
