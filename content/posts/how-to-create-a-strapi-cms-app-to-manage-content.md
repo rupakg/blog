@@ -473,6 +473,8 @@ Point your browser to this url: `http://localhost:1337/api/books?populate=*` and
 
 That concludes the article looking at Strapi CMS for managing content and accessing the content via the APIs. You can follow along with the article and review the [source code repository](https://github.com/rupakg/strapi-books-api) for the `strapi-books-api` app project we created in this article.
 
+> Check out the part 2 article on [How to Programmatically Manage Website Content Using Strapi CMS](/posts/how-to-programmatically-manage-website-content-using-strapi-cms).
+
 ## Summary
 
 To recap, we explored creating a `strapi-books-api` app using the Strapi CMS. We learned how to create some content types `Book` and `Author` and create data for that content, all using the Strapi Dashboard Admin UI. We then learned how to manage the content and set roles & permissions for the content so that we could publish & access the content publicly via the APIs. Last but not the least, we learned how to use the APIs generated automatically by Strapi CMS to retrieve the content that we created.
