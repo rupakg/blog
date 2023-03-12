@@ -3,6 +3,7 @@
     {{ block "header" . }}{{ end }}
     <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
         {{ partial "sidebar.html" . }}
+        <base target="_blank">
         <div class="content container">
             {{ block "content" . }}{{ end }}
         </div>
