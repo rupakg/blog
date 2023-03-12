@@ -15,6 +15,12 @@ $ hugo new posts/hello-word.md
 ```
 **Note**: Add any static files i.e. html, css, js, images etc. to the static folder. These files will be copied 'as-is' to the destination folder.
 
+## Create Glossary Posts
+
+```
+$ hugo new glossary/my-glossary.md
+```
+
 ## Test
 
 ```
