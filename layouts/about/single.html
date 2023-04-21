@@ -6,8 +6,11 @@
     <div class="post">
         <h1>{{ .Title }}</h1>
         {{ .Content }}
-  </div>
-{{ end }}
+    </div>
+    <!-- Newsletter -->
+    {{ partial "newsletter/sendgrid-signup-link-long.html" . }}
+
+  {{ end }}
 
 {{ define "footer" }}
     {{ partial "footer.html" . }}
