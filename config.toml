@@ -16,7 +16,7 @@ enableEmoji = true
   authorurl = "https://rupakganguly.com/about/"
   description = "personal opinions, experiences and writings..."
   themeColor = "theme-base-0d"
-  authorimage = "/img/rg10-square.jpg"
+  authorimage = "/img/rg_mug_conf.png"
   
   dateformat = "Jan 2, 2006"
 
@@ -28,7 +28,9 @@ enableEmoji = true
   showcomments = true
   #postNavigation = false
 
-  mainSections = ["post"]
+  mainSections = ["posts"]
+
+  sidebarSticky = false
 
 [params.meta]
   description = "Rupak Ganguly's blog :: personal opinions, experiences and writings..."
@@ -39,7 +41,7 @@ enableEmoji = true
   github = "rupakg"
   medium = "rupakg"
   linkedin = "rupakg"
-  email = "rupakg+blog@gmail.com"
+  email = "biz@rupakganguly.com"
 
 ## Main Menu
 [[menu.main]]
