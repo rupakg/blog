@@ -34,7 +34,7 @@ enableEmoji = true
 
 [params.meta]
   description = "Rupak Ganguly's blog :: personal opinions, experiences and writings..."
-  keywords = "blog,serverless,docker,api,microservices,architecture,aws,lambda,azure,gcp,nodejs,node,alexa,python,java,golang,javascript,thoughts,macos,apple"
+  keywords = "blog,books,reading,writing,howto,code,examples,serverless,docker,api,swagger,lambda,functions,microservices,architecture,aws,lambda,azure,gcp,nodejs,node,alexa,python,java,golang,javascript,thoughts,macos,apple"
 
 [params.social]
   twitter = "rupakg"
