@@ -20,6 +20,7 @@ In this article, I add to my process for overcoming some hurdles to keep reading
 <!--more-->
 
 ![2023 Goodreads Reading Challenge book covers](https://github.com/rupakg/blog/assets/8188/9913ac1a-a8d5-47a8-8fdf-5d656d389988)
+*My 2023 Book list*
 
 ## Cultivating the habit of reading
 
