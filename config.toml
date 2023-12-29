@@ -14,7 +14,7 @@ enableEmoji = true
 [params]
   author = "Rupak Ganguly"
   authorurl = "https://rupakganguly.com/about/"
-  description = "personal opinions, experiences and writings..."
+  description = "opinions, experiences & writings..."
   themeColor = "theme-base-0d"
   authorimage = "/img/rg_mug_conf.png"
   
@@ -50,6 +50,11 @@ enableEmoji = true
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
+    name = "Glossaries"
+    weight = 200
+    identifier = "glossary"
+    url = "/glossary/"    
+[[menu.main]]
     name = "Webinars"
     identifier = "webinar"
     weight = 300
@@ -57,7 +62,7 @@ enableEmoji = true
 [[menu.main]]
     name = "Talks"
     identifier = "talk"
-    weight = 300
+    weight = 400
     url = "/talks/"    
 ##[[menu.main]]
 ##    name = "Portfolio"
