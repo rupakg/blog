@@ -36,16 +36,18 @@ I am grateful to my leadership and my team at work, and the support they provide
 - [Reading](https://rupakganguly.com/posts/challenge-yourself-into-a-reading-habit/): goal of 36 books, read 56 books
 - [Writing](https://rupakganguly.com): goal of 6 articles, wrote 3 articles
 - [Newsletter](https://rupakganguly.substack.com): 1st year, goal 12 posts, posted 6
-- Guitar: 2nd year in my learning journey, lacking practice cadence, can play a few songs, not performance-ready
-- Sports: 
-	- Golf: 1st year, started playing once a week, still learning
-	- Tennis: 17th year, practice once a week, play 2 leagues a year
-- Meditation: 3rd year in my journey, 10 mins every day, missed a few days
-- Exercise: walk 3-5 miles, at least thrice a week, and irregular visits to the gym
-- Food: healthy home-cooked meals with occasional eating out, too much coffee
-- Health: manageable stress, overall healthy numbers, slight weight gain
-- Travel: a trip to Ireland, a trip to NY with my daughter, a trip to India & few road trips with my family
-- Friends: dinner after tennis, breakfast/lunch after golf, occasional poker nights, 2 boys-only poker trips, weekend parties, overall feel blessed
-- Family: empty nesters, son senior at Georgia Tech and internship in NY, daughter sophomore at UGA, more time for me & my wife to travel and enjoy quality time together, some Netflix, couple classes at the gym, mom is healthy, overall feel blessed
+- **Guitar**: 2nd year in my learning journey, lacking practice cadence, can play a few songs, not performance-ready
+- **Sports**: 
+	- **Golf**: 1st year, started playing once a week, still learning
+	- **Tennis**: 17th year, practice once a week, play 2 leagues a year
+- **Meditation**: 3rd year in my journey, 10 mins every day, missed a few days
+- **Exercise**: walk 3-5 miles, at least thrice a week, and irregular visits to the gym
+- **Food**: healthy home-cooked meals with occasional eating out, too much coffee
+- **Health**: manageable stress, overall healthy numbers, slight weight gain
+- **Travel**: a trip to Ireland; a trip to Santorini/Athens, Greece with my wife; a trip to NY with my daughter; a trip to India & a few road trips with the family
+- **Friends**: dinner after tennis, breakfast/lunch after golf, occasional poker nights, 2 boys-only poker trips, weekend parties, overall feel blessed
+- **Family**: our 25th wedding anniversary, empty nesters, son senior at Georgia Tech and internship in NY, daughter sophomore at UGA, more time for me & my wife to travel and enjoy quality time together, some Netflix, couple classes at the gym, mom is healthy, overall feel blessed
+
+>*What were your reflections on things that happened this year?*
 
 If you have questions or feedback, please let me know in the comments below.
