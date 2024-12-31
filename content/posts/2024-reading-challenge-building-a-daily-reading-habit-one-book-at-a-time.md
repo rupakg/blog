@@ -22,6 +22,53 @@ If you are thinking of forming a good habit in 2025, start reading. I wrote abou
 ![Carousal of my 2024 Books](https://github.com/user-attachments/assets/3145289e-782d-424d-afe6-c714f736b3df)
 [My 2024 books]
 
+## Excuses we give ourselves
+
+I have been there, so don’t sweat it. It took me some while to get into a routine and set away some time for reading. I have been struggling with getting into a discipline with my guitar practice. It takes time and a conscious effort to get into a routine. So, don’t give up.
+
+Some of my excuses:
+
+- I don't have time
+    - We all have time. Its just that we don't have the time set to read. You just have block some time. 10 mins, everyday. Same time. Put it in your calendar or set a reminder.
+- I am too busy
+    - We are all busy. Life happens. We have to find time for things we live to do. Develop love for books and reading
+- Where do I find books?
+    - Your can borrow from your nearest library. You can read audio books on Libby or Audible. You can buy books at Amazon, ThriftBooks or at your local bookstore.
+- What should I read?
+    - Ask the librarian and they will guide you.
+    - Follow people on Goodreads. Check out their reading lists
+    - Check out Ryan Holiday’s book list email newsletter
+    - Check out Tim Ferris’ book list on his Fri newsletter
+    - Talk to friends and ask what they read
+    - Pick a combination of genres - fiction and non-fiction
+- I have no motivation
+    - Motivation helps drive a habit.
+    - Love for reading will come from reading books that motivate you
+    - For people like me who like challenges, a reading challenge could be your motivation.
+- I will start next week
+    - Procrastination is real, but small milestones for a bigger goal can be a solution
+    - Make your milestone to complete 5 pages or a chapter or 5% of an audiobook. In no time you will have finished the book
+    - Just start getting a book today, followed by reading 5 pages. Just do it.
+
+## Being curious
+
+- To be able to develop a reading habit, we have to be curious. We need some inspiration to develop a love for reading
+- Pick a topic or subject that you know nothing about
+- Find a book to read. Start with a small book and a relatively easier read
+- Find books by authors that you loved in the past
+
+## Routine
+
+- Develop a daily reading routine
+- Set aside 10 mins to read, everyday
+- Track your progress
+- Pick a time of day or night, when you don’t have to fight with competing tasks or chores
+- Stick to the routine. If you miss a day, pick up the next day
+
+I hope you develop the love for reading this coming new year. If you already read, read some more. Challenge yourself. Write reviews and take notes of books you read. Share it with others. It is a lot of fun.
+
+## Reading List
+
 > 2024 📖: [Reading Challenge](https://www.goodreads.com/user_challenges/49530215) | [My Year in Books](https://www.goodreads.com/user/year_in_books/2024/30107236)
 
 📖 Here are the books I read in 2024:
