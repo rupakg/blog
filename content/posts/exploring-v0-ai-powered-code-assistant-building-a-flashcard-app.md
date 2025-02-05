@@ -15,8 +15,8 @@ This article documents my experience exploring V0 AI, a powerful AI-powered code
 Through this journey, I tested various features including basic app creation, project file management, import/export functionality, and UI enhancements. The documentation covers both the successes and challenges encountered while building with V0, providing insights into its capabilities, limitations, and overall development experience.
 <!--more-->
 
-![header image]()
-*[Photo by ]*
+![AI Assistant](https://plus.unsplash.com/premium_photo-1725907643560-8d2dc0124337?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+*[Photo by [Philip Oroni](https://unsplash.com/@philipsfuture) at [Unsplash](https://unsplash.com/plus?referrer=%2Fphotos%2Fa-blue-robot-sitting-on-top-of-a-table-WgRAbXRw_Wk)]*
 
 # Getting Started
 
