@@ -1,5 +1,5 @@
 ---
-title: "Building a Habit Tracker App With Lovable Ai a Step by Step Tutorial"
+title: "Building a Habit Tracker App With Lovable AI: A Step-by-Step Tutorial"
 description: "Step-by-step tutorial for building a modern habit-tracking application built with Lovable AI code assistant. A deep-dive and walk through the development process, from initial setup to implementing advanced features, while addressing various technical challenges and improvements along the way."
 date: 2025-02-14T13:53:04-05:00
 lastmod: 2025-02-14T13:53:04-05:00
