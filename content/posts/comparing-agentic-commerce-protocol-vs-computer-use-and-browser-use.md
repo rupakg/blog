@@ -1,8 +1,8 @@
 ---
 title: "Comparing Agentic Commerce Protocol vs Computer Use and Browser Use"
 description: "The article contrasts traditional computer-use and browser-use automation with the Agentic Commerce Protocol (ACP), arguing that ACP is a purpose-built, programmatic foundation for agent-driven commerce."
-date: 2025-10-20T16:19:08-04:00
-lastmod: 2025-10-20T16:19:08-04:00
+date: 2025-11-01T11:11:08-04:00
+lastmod: 2025-11-01T11:11:08-04:00
 keywords : [ "AI", "ai-development", "AgenticAI", "Agents", "ACP", "agentic-commerce-protocol", "ai-tools", "computer-use", "browser-use" ]
 tags : [ "AI", "ai-development", "AgenticAI", "Agents", "ACP", "agentic-commerce-protocol", "ai-tools", "computer-use", "browser-use" ]
 categories : [ "AI", "Development", "AgenticAI", "Agents", "ACP" ]
