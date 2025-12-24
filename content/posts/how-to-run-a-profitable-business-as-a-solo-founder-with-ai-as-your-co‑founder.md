@@ -19,7 +19,7 @@ The beauty of AI-powered business operations lies in its accessibility. You don'
 But, what happens to the human factor? The conscience, the emotional intelligence, the critical decision making, the final call…
 <!--more-->
 
-![The ever-growing AI tools landscape for businesses](https://private-user-images.githubusercontent.com/8188/530092652-7c393fdc-d90a-477c-83a2-202e2a971769.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MTY2MjQsIm5iZiI6MTc2NjYxNjMyNCwicGF0aCI6Ii84MTg4LzUzMDA5MjY1Mi03YzM5M2ZkYy1kOTBhLTQ3N2MtODNhMi0yMDJlMmE5NzE3NjkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIyNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMjRUMjI0NTI0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2RlYjE2NGNjYTAzMzY4MjBkMjk5OTY0MGM4NTMzMDY0ODg2ZTAxMGY0ZTJjYjVhMTRhNGJjMWYwZTZhZmY4NiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.tyhJi69DCdPQUKcTnJs3FWbEmHOq6mSkKigY36tJ598)
+![The ever-growing AI tools landscape for businesses](/img/ai-tools-landscape-for-businesses.png)
 *[The ever-growing AI tools landscape for businesses]*
 
 ## Sales: Your 24x7 Revenue Engine
