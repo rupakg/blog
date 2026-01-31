@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Build the project.
-hugo -t hyde-hyde
+# hugo -t hyde-hyde
 
 echo -e "\033[0;32mAdd public folder contents...\033[0m"
 # Go To Public folder
