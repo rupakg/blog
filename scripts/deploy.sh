@@ -7,7 +7,7 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 echo -e "\033[0;32mAdd public folder contents...\033[0m"
 # Go To Public folder
-cd ../public
+cd ./public
 # Add changes to git.
 git add -A
 
