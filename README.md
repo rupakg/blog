@@ -73,6 +73,73 @@ To build the site for production inside the container:
 $ docker run --rm -v $(pwd)/public:/site/public blog hugo -t hyde-hyde
 ```
 
+## Run with Blog Skill Commands
+
+The `/hugo-blog` Claude skill wraps all common operations in Docker automatically. Use it inside Claude Code instead of running Docker commands manually.
+
+### Start the dev server
+
+```
+/hugo-blog dev
+```
+
+The site will be available at `http://localhost:1313/`. Local `content/` and `static/` directories are mounted so edits live-reload without rebuilding the image.
+
+### Stop the dev server
+
+```
+/hugo-blog stop
+```
+
+### Create a new post
+
+```
+/hugo-blog new-post my-post-slug
+```
+
+Creates `content/posts/my-post-slug.md` from the default archetype.
+
+### Create a new glossary entry
+
+```
+/hugo-blog new-glossary my-glossary-slug
+```
+
+### Build for production
+
+```
+/hugo-blog build
+```
+
+Runs `hugo -t hyde-hyde` inside Docker and writes output to `public/`.
+
+### Deploy to GitHub Pages
+
+```
+/hugo-blog build
+/hugo-blog deploy
+```
+
+The deploy script commits and pushes the `public/` submodule to `rupakg.github.io`. Because `public/` uses a detached HEAD, the push targets `HEAD:master` explicitly:
+
+```
+cd public
+git add -A
+git commit -m "Rebuilding the site $(date)"
+git push origin HEAD:master
+```
+
+### Cross-post to Medium
+
+```
+/hugo-blog crosspost posts/my-post.md
+```
+
+### Notes
+
+- **Image files**: Always verify that image files saved as `.png` are actually PNG data (`file image.png`). JPEG data with a `.png` extension will appear broken in the browser. Rename to `.jpg` and update the markdown reference if needed.
+- **public/ submodule**: The `public/` directory is a Git submodule pointing to `rupakg.github.io`. After building, any untracked or modified files there must be committed and pushed separately from the main blog repo.
+
 ## Resources
 
 - [Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
